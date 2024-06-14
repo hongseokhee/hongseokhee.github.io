@@ -1,5 +1,7 @@
 layout : page
-permalink : /about/Python
 title : "Python"
+permalink : /about/Python
 description : This page was made to study Python
+
 #Python
+welcome
