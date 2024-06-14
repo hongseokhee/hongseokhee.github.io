@@ -7,4 +7,4 @@ description : This page was made to study Python
 
 # Python
 
-welcome
+Welcome to the Python page. Here, we will explore various aspects of the Python language.
