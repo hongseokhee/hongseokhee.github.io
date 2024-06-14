@@ -5,6 +5,6 @@ permalink : /about/Python
 description : This page was made to study Python
 ---
 
-#Python
+# Python
 
 welcome
